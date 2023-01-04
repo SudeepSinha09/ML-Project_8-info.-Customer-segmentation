@@ -50,4 +50,4 @@ Next, we used the elbow method to find the optimal number of clusters for our cu
 
 Finally, we used the identified number of clusters to build a cluster model and analyzed the resulting customer segments to gain insights and inform our marketing efforts. Overall, the project provided valuable insights into the diverse needs and preferences of our customers and helped us tailor our marketing efforts to better serve them.
 
-##### Model - Finding the optimal number of clusters (Elbow)
+#### The model selected - Finding the optimal number of clusters (Elbow)
